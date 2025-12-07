@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "スノーマジックファンタジー",
+  "base_artist": "SEKAI NO OWARI",
+  "createdAt": "2025-12-07T12:03:12.331603Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "スノーマジックファンタジー",
+      "artist": "高木さん(CV:高橋李依)",
+      "has_synced": true,
+      "path": "select/01_スノーマジックファンタジー_高木さん(CV_高橋李依).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "スノーマジックファンタジー",
+      "artist": "高木さん (高橋李依)",
+      "has_synced": true,
+      "path": "select/02_スノーマジックファンタジー_高木さん_(高橋李依).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "スノーマジックファンタジー",
+      "artist": "高橋李依",
+      "has_synced": true,
+      "path": "select/03_スノーマジックファンタジー_高橋李依.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "スノーマジックファンタジー",
+      "artist": "高木さん",
+      "has_synced": true,
+      "path": "select/04_スノーマジックファンタジー_高木さん.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "スノーマジックファンタジー",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": true,
+      "path": "select/05_スノーマジックファンタジー_SEKAI_NO_OWARI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スノーマジックファンタジー",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": false,
+      "path": "select/pl_01_スノーマジックファンタジー_SEKAI_NO_OWARI.txt"
+    }
+  ]
+}
